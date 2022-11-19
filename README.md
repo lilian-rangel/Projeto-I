@@ -1,6 +1,6 @@
 <h1 align="center">Projeto clone Instagram</h1><br>
 
-<p>Projeto desenvolvido num curso de introdução ao HTML5 e CSS3 na plataforma DIO </p>
+<p>Projeto da plataforma DIO de um curso de introdução ao HTML5 e CSS3.</p>
 <p>Onde foi desenvolvido o clone da tela inicial do Instagram </p>
 
 <h2>Tecnologias utilizadas 🛠</h2><br>
